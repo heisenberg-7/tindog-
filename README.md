@@ -1,0 +1,2 @@
+# tindog-
+ripoff of tinder 
