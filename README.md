@@ -1,2 +1,1 @@
-# tindog-
-ripoff of tinder 
+TinDog Starting Files
